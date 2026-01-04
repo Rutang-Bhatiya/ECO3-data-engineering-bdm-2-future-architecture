@@ -209,10 +209,11 @@ Sometimes this means:
 
 This repository represents the **strategic backbone** of the ECO3 analytics journey:
 
-- Phase 1: Legacy discovery
-- Phase 2: Operational BI ownership
-- Phase 3: Data engineering & automation (this repo)
-- Phase 4: BDM 2.0 architecture (this repo)
+- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
+- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
+- **Phase 3:** [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
+- **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture (this repo)`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
+- **Phase 5:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
 
 ---
 
