@@ -209,9 +209,9 @@ Sometimes this means:
 
 This repository represents the **strategic backbone** of the ECO3 analytics journey:
 
-- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
-- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
-- **Phase 3:** [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
+- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/)
+- **Phase 2:** [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
+- **Phase 3:** [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/)
 - **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture (this repo)`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/)
 
 Each phase is documented separately to keep clarity and focus.
@@ -238,11 +238,11 @@ No proprietary ECO3 data, architecture diagrams, or business rules are disclosed
 
 ## Navigation
 
-- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
   *It contain links to My portfolio and all major pages and projects*
 
-- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)
   *Links to all Nielsen Repo*
 
-- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)
   *Links to all ECO3 Repo*
