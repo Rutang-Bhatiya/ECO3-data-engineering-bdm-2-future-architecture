@@ -1,6 +1,6 @@
 ## Purpose of This Repository
 
-This repository documents **Phase 3 and Phase 4** of my role at ECO3, where my responsibilities expanded beyond reporting into:
+This repository documents **Phase 4** of my role at ECO3, where my responsibilities expanded beyond reporting into:
 
 - Data engineering
 - Automation
@@ -17,7 +17,7 @@ All examples are conceptual and use dummy representations to respect confidentia
 
 ## From Reporting Problems to Platform Thinking
 
-While owning and stabilizing reports (Repo ECO3-operational-BI-ownership), clear systemic problems emerged:
+While owning and stabilizing reports (Repo [`ECO3-operational-BI-ownership`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"} ), clear systemic problems emerged:
 
 - Reporting logic duplicated across tools
 - Transformations scattered across Excel, Access, and Power BI
