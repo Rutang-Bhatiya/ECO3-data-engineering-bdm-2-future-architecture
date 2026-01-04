@@ -1,5 +1,3 @@
-# ECO3 – Data Engineering, Automation & BDM 2.0 Architecture
-
 ## Purpose of This Repository
 
 This repository documents **Phase 3 and Phase 4** of my role at ECO3, where my responsibilities expanded beyond reporting into:
@@ -9,7 +7,7 @@ This repository documents **Phase 3 and Phase 4** of my role at ECO3, where my r
 - Platform architecture
 - Long-term data strategy
 
-The core focus of this phase is **BDM 2.0** — the future-state data environment designed to replace a fragile legacy ecosystem with a scalable, secure, and AI-ready platform.
+The core focus of this phase is **BDM 2.0** the future-state data environment designed to replace a fragile legacy ecosystem with a scalable, secure, and AI-ready platform.
 
 This repository captures how hands-on operational experience directly shaped architectural decisions.
 
@@ -19,7 +17,7 @@ All examples are conceptual and use dummy representations to respect confidentia
 
 ## From Reporting Problems to Platform Thinking
 
-While owning and stabilizing reports (Repo 2), clear systemic problems emerged:
+While owning and stabilizing reports (Repo ECO3-operational-BI-ownership), clear systemic problems emerged:
 
 - Reporting logic duplicated across tools
 - Transformations scattered across Excel, Access, and Power BI
@@ -82,7 +80,7 @@ Together with the BI Head, I contributed to designing **BDM 2.0**, based on:
 ### Architectural Shift
 
 **Current (Legacy):**
-SAP → SAP BW → Excel → Access → Excel → Power BI
+SAP → SAP BW → Excel → Access → Excel / Power BI
 
 **Future (BDM 2.0):**
 SAP → Microsoft Fabric → Centralized Databases → Power BI / Excel
@@ -91,7 +89,7 @@ SAP → Microsoft Fabric → Centralized Databases → Power BI / Excel
 
 ## Centralized Database Strategy
 
-BDM 2.0 will consist of **19–20 centralized databases**, designed to be:
+BDM 2.0 will consist of **XX centralized databases**, designed to be:
 
 - Easy to maintain
 - Easy to understand
@@ -139,11 +137,10 @@ My contributions include:
 
 ## Managing Major Business Changes
 
-### Business Group Changes
+### Product mapping Changes
 
-Recent Business Group changes impacted many critical reports.
+Recent Product mapping changes impacted many critical reports.
 
-I:
 - Reconciled data across SAP BW, Excel, Access, and Power BI
 - Identified high-risk dependencies
 - Implemented controlled changes
@@ -151,13 +148,14 @@ I:
 
 ---
 
-### Agfa Carve-Out Impact
+### Data Carve-Out Impact
 
-An upcoming carve-out from Agfa impacts:
+An upcoming carve-out impacts:
 
 - Data sources
 - Folder structures
 - SAP BW environments
+- Excel reports
 - Power BI semantic models
 
 I am currently:
@@ -202,7 +200,7 @@ I translate:
 
 Sometimes this means:
 - Challenging unrealistic expectations
-- Saying no — politely and with justification
+- Saying no - politely and with justification
 - Protecting platform integrity
 
 ---
@@ -213,23 +211,18 @@ This repository represents the **strategic backbone** of the ECO3 analytics jour
 
 - Phase 1: Legacy discovery
 - Phase 2: Operational BI ownership
-- Phase 3: Data engineering & automation
+- Phase 3: Data engineering & automation (this repo)
 - Phase 4: BDM 2.0 architecture (this repo)
-- Phase 5: Business analytics applications
 
 ---
 
 ## Suggested Diagrams to Add (Optional – Later)
-
-Recommended conceptual visuals:
 
 1. **Legacy vs BDM 2.0 Architecture**
 2. **Centralized Database Layer Model**
 3. **Data Flow: SAP → Fabric → Consumption**
 4. **AI-Ready Data Platform Concept**
 5. **Ownership & Governance Model**
-
-All visuals should remain abstract and non-sensitive.
 
 ---
 
